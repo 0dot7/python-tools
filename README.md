@@ -1,1 +1,1 @@
-# some tools by python
+# Python script learning
